@@ -47,7 +47,7 @@ WHERE
 
 
 -- 5. Find the names (first_name, last_name), salary of the employees whose salary is equal to the minimum salary for their job grade
-
+SELECT FIRST_NAME, LAST_NAME, SALARY FROM employees WHERE SALARY > (SELECT AVG(SALARY) FROM employees);
 
 
 

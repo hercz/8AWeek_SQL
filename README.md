@@ -1,2 +1,3 @@
 # 8AWeek_SQL
-8. week SQL tasks
+8/A week SQL tasks.
+

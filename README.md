@@ -1,3 +1,4 @@
-# 8AWeek_SQL
-8/A week SQL tasks.
+# 8/A week SQL basic tasks.
+
+[Codecool](https://codecool.hu/) school project.
 
